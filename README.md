@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on **Test**
 
 - 🌱 I’m currently learning **Java**
-- 
- - 🧑‍🎓 I’m an Undergraduate at **IJSE**
+ 
+- 🧑‍🎓 I’m an Undergraduate at **IJSE**
 
 - 💬 Ask me about **Java | Web Development**
 
